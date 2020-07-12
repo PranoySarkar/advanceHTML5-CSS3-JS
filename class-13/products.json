@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "Pen 1.0",
+            "price": 100,
+            "img": ""
+        },
+        {
+            "name": "Book",
+            "price": 200,
+            "img": ""
+        },
+        {
+            "name": "Paper",
+            "price": 70,
+            "img": ""
+        },
+        {
+            "name": "Pen 1.0",
+            "price": 100,
+            "img": ""
+        },
+        {
+            "name": "Book",
+            "price": 200,
+            "img": ""
+        },
+        {
+            "name": "Paper",
+            "price": 70,
+            "img": ""
+        }
+    ]
+}

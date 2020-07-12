@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+header {
+    background: #8BC34A;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFF;
+    box-shadow: 0 0 4px 2px #00000082;
+}
+
+.navUL, .navList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+#siteName {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.navList {
+    display: inline-block;
+    border: 1px solid #d3d3d3;
+    padding: 5px 10px;
+    box-shadow: 0 0 5px 0px #00000057;
+    background: #607D8B;
+    margin-right: 10px;
+    min-width: 74px;
+    text-align: center;
+}
+
+main {
+    padding: 10px;
+    border: 1px solid #e4d7d7;
+    margin: 10px;
+}
+
+footer {
+    background: #607D8B;
+    color: white;
+    padding: 10px;
+}

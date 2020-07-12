@@ -1,0 +1,17 @@
+main,
+section,
+article, 
+aria-label (Accessible Rich Internet Applications ), 
+new input types, for, date	A control for entering the date.	<input type="date">
+datetime	Date and time using UTC date and time format	<input type="datetime">
+month	Month and year	<input type="month">
+time	The time of day	<input type="time">
+week	Allows you to pick the week and year.	<input type="week">
+color	Allows you to enter a simple color value (which is in hexadecimal color notation)	<input type="color"">
+email	Validates the input using the standard email format	<input type="email">
+tel	Gives you the ability to validate telephone numbers format against a pattern	<input type="tel">
+range	A slider control for picking a number in between two numbers	<input type="range"  min="0" max="10" >
+number	Accepts numbers only	<input type="number">
+url	Accepts URLs only	<input type="url" pattern="https://.*" size="30">  :vaild, :invalid,  autocompletion, og tags
+for
+:checked

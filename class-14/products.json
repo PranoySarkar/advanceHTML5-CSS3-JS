@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "name": "Pen",
+            "price": 150,
+            "img": "/images/pen.jpg"
+        },
+        {
+            "name": "Book",
+            "price": 200,
+            "img": "/images/book.jpg"
+        },
+        {
+            "name": "Paper",
+            "price": 200,
+            "img": "/images/paper.jpg"
+        },
+        {
+            "name": "Eraser",
+            "price": 200,
+            "img": "/images/eraser.jpg"
+        },
+        {
+            "name": "Sharpener",
+            "price": 200,
+            "img": "/images/sharpener.jpg"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;/* 10px*/
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem; /*default font 16px*/
+    color: #545353;
+    margin: 0;
+}
+header {
+    color: #FFF;
+    background: red;
+    min-height: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+    box-shadow: 0 0 7px 3px #0000007d;
+}
+
+#siteName {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+.product {
+    background: #a3a7ab;
+    display: inline-block;
+    min-width: 20rem;
+    min-height: 20rem;
+    padding: .5rem;
+    display: inline-grid;
+    grid-template-rows: 1fr auto auto;
+   
+}

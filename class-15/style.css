@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;/* 10px*/
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem; /*default font 16px*/
+    color: #545353;
+    margin: 0;
+}
+header {
+    color: #FFF;
+    background: red;
+    min-height: 5rem;
+    display: flex;
+    align-items: center;
+    padding-left: 2rem;
+    box-shadow: 0 0 7px 3px #0000007d;
+}
+
+#siteName {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    display: inline-block;
+}
+
+main {
+    padding: 2rem;
+}
+
+.product {
+    background: #f4f4f4;
+    border: 1px solid #bbb;
+    display: inline-block;
+    min-width: 20rem;
+    padding: .5rem;
+    display: inline-grid;
+    grid-template-rows: 1fr auto auto;
+    margin: 1rem;
+   
+}
+
+.imgContainer {
+    max-width: 20rem;
+    overflow: hidden;
+}
+
+.imgContainer img {
+    width: 100%;
+}
+.buyNowBtn {
+    width: 100%;
+    padding: 6px 10px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: aliceblue;
+    background: #FF5722;
+    border: 1px solid #7d797942;
+    border-radius: 2px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.price {
+    /* background: #89949e; */
+    padding: 10px;
+    text-align: right;
+    font-size: 2.5rem;
+    font-weight: 500;
+}

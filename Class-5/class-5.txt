@@ -1,0 +1,10 @@
+sudo element, sudo class
+before,after,
+hover,active,
+
+ complex css query (child, sibling.)
+ nth-of-type
+ last-child
+ first-child
+ attribute selector
+ 

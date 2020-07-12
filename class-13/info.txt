@@ -1,0 +1,6 @@
+1. node
+2. npm project, 
+3. Global and local modules
+4. live server, 
+5. Project setup
+6. figma

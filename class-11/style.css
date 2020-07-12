@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%/*rem to 10px*/
+}
+body{
+    font-size: 1.6rem;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background: #839eb4;
+    transition: all .5s;
+    transform: rotate(0deg);
+    transform: scale(1);
+   
+
+}
+
+div:hover{
+    background: #009688;
+    transform: scale(.7);
+}
+
+button {
+    background: #ffffff;
+    padding: 5px 20px;
+    border: 1px solid #8e8d8d;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0 0 8px 3px #0000002e;
+    transition: all .1s;
+    outline: none;
+}
+
+button:hover{
+    box-shadow: 0 0 4px 3px #0000002e;
+}
+
+button:active{
+    box-shadow: unset
+}

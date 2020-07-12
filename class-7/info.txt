@@ -1,0 +1,5 @@
+https://dog.ceo/api/breeds/image/random
+architecture 
+post man
+network pannel
+demo with fetch api

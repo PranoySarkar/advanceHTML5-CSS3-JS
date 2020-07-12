@@ -1,0 +1,12 @@
+querySelector,
+classList,
+append, 
+innerHTML,
+setAttribute,
+
+location //.reload()
+
+boundingRect
+innerWidth
+innerHeight
+dataset

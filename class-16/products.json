@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Pen",
+            "price": 159,
+            "img": "/images/pen.jpg",
+            "promo":"https://www.youtube.com/embed/ijcAwrWMi0g",
+            "desc": "Pen Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ullam, veritatis rem qui nemo sed soluta suscipit quod quos cupiditate iure fugiat. Harum molestiae doloribus quam asperiores,eligendi "
+        },
+        {
+            "id": 2,
+            "name": "Book",
+            "price": 200,
+            "img": "/images/book.jpg",
+            "promo":"https://www.youtube.com/embed/T2rbdMlmpYY",
+            "desc": "Book Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ullam, veritatis rem qui nemo sed soluta suscipit quod quos cupiditate iure fugiat. Harum molestiae doloribus quam asperiores,eligendi "
+        },
+        {
+            "id": 3,
+            "name": "Paper",
+            "price": 200,
+            "img": "/images/paper.jpg",
+            "promo":"https://www.youtube.com/embed/T2rbdMlmpYY",
+            "desc": "Paper Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ullam, veritatis rem qui nemo sed soluta suscipit quod quos cupiditate iure fugiat. Harum molestiae doloribus quam asperiores,eligendi "
+        },
+        {
+            "id": 4,
+            "name": "Eraser",
+            "price": 200,
+            "img": "/images/eraser.jpg",
+            "promo":"https://www.youtube.com/embed/T2rbdMlmpYY",
+            "desc": "Eraser Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ullam, veritatis rem qui nemo sed soluta suscipit quod quos cupiditate iure fugiat. Harum molestiae doloribus quam asperiores,eligendi "
+        },
+        {
+            "id": 5,
+            "name": "Sharpener",
+            "price": 200,
+            "img": "/images/sharpener.jpg",
+            "promo":"https://www.youtube.com/embed/T2rbdMlmpYY",
+            "desc": "Sharpener Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ullam, veritatis rem qui nemo sed soluta suscipit quod quos cupiditate iure fugiat. Harum molestiae doloribus quam asperiores,eligendi "
+        }
+    ]
+}

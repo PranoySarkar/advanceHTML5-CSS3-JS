@@ -1,0 +1,59 @@
+button{
+    background: white;
+    color: #656565;
+    border: 1px solid #0006;
+    min-width: 200px;
+    padding: 10px 20px;
+    font-size: 43px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 2px #00000042;
+}
+button:hover{
+    box-shadow: 0 0 3px 1px #00000042;
+}
+
+button:active{
+    box-shadow: 0 0 0px 0px #00000042;
+}
+
+
+p::after{
+    content: "";
+}
+
+p::before{
+    content: "\"";
+}
+
+.para{
+    color: red;
+}
+
+#para2{
+    color: green;
+}
+
+li:first-child{
+    color: red;
+}
+
+li:last-child{
+    color: green;
+}
+
+input ~ label{
+    color: red;
+}
+
+/* > direct child*/
+.parentDiv  p{ 
+    color: green;
+}
+
+[type=password]{
+    border: 2px solid red;
+}
+
+li:nth-child(2n){
+    color: red;
+}
